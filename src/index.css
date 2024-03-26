@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ReactModal__Content.ReactModal__Content--after-open{
+    padding: 0px !important;
+}
